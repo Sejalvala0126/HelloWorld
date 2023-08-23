@@ -1,0 +1,20 @@
+.one{
+    height: 100vh;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+} 
+/* .one{
+    height: ;
+} */
+
+h1{
+    border-left:5px solid  red;
+    border-bottom: 5px solid rgb(112, 30, 189);
+    font-weight: bold;
+
+    
+    background-image: linear-gradient(red,yellow,green,blue);
+    -webkit-text-fill-color:transparent;
+    -webkit-background-clip: text;
+}
